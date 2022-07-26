@@ -1,4 +1,4 @@
-Each .ipynb file is provided by a corresponding .html file.
+Each .ipynb file is provided by a corresponding .html file or a link to Google Colaboratory.
 
 * EPAM_projects contain homeworks from EPAM Data Science introduction course (2021).
 * Concrete_regression - my exam work for "Applied machine learning" course. The goal: to predict the strength of concrete by its characteristics. (2021)
