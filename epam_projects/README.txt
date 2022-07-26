@@ -1,0 +1,1 @@
+This directory contains projects from my EPAM Data Science course June-November 2021.
