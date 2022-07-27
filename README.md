@@ -1,4 +1,4 @@
-Each .ipynb file is provided by a corresponding .html file or a link to Google Colaboratory.
+Each .ipynb file is provided by a corresponding .html file or a link to Google Colaboratory or Kaggle.
 
 * **EPAM_projects** contains homeworks from EPAM Data Science introduction course (2021).
 * **EPAM_NLP_advanced** contains projects from EPAM NLP advanced mentor program (dec 2021 - feb 2022).
