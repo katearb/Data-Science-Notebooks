@@ -1,0 +1,1 @@
+This directory contains projects from EPAM NLP advanced mentor program december 2021 - february 2022.
